@@ -10,11 +10,5 @@ A Python project for analyzing and processing student fee submission data. This 
 - Supports both parallel processing for faster performance and linear processing for simplicity and smaller datasets.
 - Generate detailed frequency statistics for fee submission dates.
 
-**Technologies Used**:
-- Python
-- Pandas
-- Collections (Counter)
-- Parallel Processing Tools (optional)
-
 **Use Case**:  
 It is ideal for data analysts or educational institutions aiming to understand patterns in student fee submissions. Choose between parallel or linear processing depending on the dataset size and computational resources.
